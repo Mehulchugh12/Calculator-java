@@ -1,0 +1,1 @@
+in this code you have to enter the operator first like +,-,/,* and the enter and then enter your problem like 20-10 but without the operator again bcz you put the operator before so dont need to enter again.the divide problem will be resulted as zero situation
